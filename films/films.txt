@@ -1,0 +1,1 @@
+{'1': ['https://www.prorobot.ru/gallery/foto/11710512207.jpg', 'Трансформеры']}

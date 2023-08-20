@@ -1,0 +1,1 @@
+{'name_film': 0, 'link_film': 'ВАно\nСЫЛКА НА ФИЛЬм-https://stuki-druki.com/film/images/kadr-kak-ivanushka-durachek-za-chudom-hodil-05.jpg', 'num_film': '22', 'quest': 0, 'link_channel': 'https://t.me/+WxxGl1_OnAs2ZTFi'}
